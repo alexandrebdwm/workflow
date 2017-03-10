@@ -1,0 +1,5 @@
+d:
+
+cd "relative path"
+
+gulp
